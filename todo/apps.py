@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class YodoConfig(AppConfig):
-    name = 'yodo'
+class TodoConfig(AppConfig):
+    name = 'todo'
